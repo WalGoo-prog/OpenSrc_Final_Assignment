@@ -10,15 +10,15 @@
 
 ## 각 기능 별 담당자
 
-메인 프로그램(OpenSrc_Final.c), 대소문자 변환기 : 박지호 
+메인 프로그램(OpenSrc_Final.c), 대소문자 변환기(stringCaseConverter.c) : 박지호 
 
 계산기(calculator.c) : 김예빈
 
-비밀번호 생성기 : 김승기
+비밀번호 생성기(generateRandomPassword.c) : 김승기
 
-점수 평균 계산기 : 정현민
+점수 평균 계산기(averageScore.c) : 정현민
 
-단위 변환기, 충돌 처리 : 홍예준
+단위 변환기(unitConverter.c), 충돌 처리 : 홍예준
 
 ---
 
@@ -33,13 +33,13 @@ OpenSrc_Final.c 실행 후 표시되는 옵션들의 입력으로 프로그램 �
 
 #### pr 기록
 
-![pr 기록](./pr_history.png)
+![pr 기록](./pr_history_2.png)
 
 #### 충돌 결과
 
 ![충돌 사진](./solving.png)
 
-feature/unitConvert, feature/calculotr 에서 
+feature/unitConvert, feature/calculator 에서 
 
 OpenSrc_Final.c 에 대해 동일한 부분에 다른 수정 내역이 push 되어
 
