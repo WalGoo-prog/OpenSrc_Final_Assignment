@@ -33,7 +33,7 @@ OpenSrc_Final.c 실행 후 표시되는 옵션들의 입력으로 프로그램 �
 
 #### pr 기록
 
-![pr 기록](./pr_history_2.png)
+![pr 기록](./pr_history2.png)
 
 #### 충돌 결과
 
